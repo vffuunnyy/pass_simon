@@ -1,5 +1,7 @@
 # Simon pass
 
+Nimsy bro take it easy
+
 ### Keybindings:
 
 ```
